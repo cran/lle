@@ -21,7 +21,6 @@
 
 \examples{
     \dontrun{
-	data( lle_wave )
 	lle_sound()
 	lle_sound( 200, 20, 20 )
     }

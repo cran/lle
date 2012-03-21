@@ -29,10 +29,11 @@ function(Y,X,print=FALSE,col=3,name=as.numeric(Sys.time()),angle=60,inter=FALSE)
 	#print direction of output file (if used)
 	if( print ){
 		cat( "graphics saved to",getwd(),"\n" )
-		pdf( file=paste(name, ".pdf", sep="" ), 800, 480 )
-	} else if (Sys.info()[1]=="Linux") x11("",9,5) else windows(9,5)
+		pdf( file=paste(name, ".pdf", sep="" ), width=800, height=480 )
+	} else dev.new()
 
 	#generate splitscreen
+	#when outputing to file, splitscreen generates warning, which is harmless
 	options("warn"=-1)
 	if( n<4 ) split.screen(c(1,2))
 	options("warn"=0)	

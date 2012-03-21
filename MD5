@@ -1,6 +1,6 @@
-18d57431ff544fb961be96449f18b673 *DESCRIPTION
+2c5d1fcd8d24343d27a79987023f2082 *DESCRIPTION
 4b5a4628f1b606197e4a09f8b9fe65fd *NAMESPACE
-bb997d5ff90d74a805421c377a99cb31 *R/calc_k.R
+3aa5a0400d85fbc4707345ff5dd63aa6 *R/calc_k.R
 f79968682aa12513c9fb8926765bf4d6 *R/find_coords.R
 62abf5bab651a52348c4ab618cbe8eb5 *R/find_nn_eps.R
 60b09112803f1539cfd916ca1a211eef *R/find_nn_k.R
@@ -11,7 +11,7 @@ ccf376404d074a7027352d63cc9198ba *R/lle.R
 cf3bbe74d7927ce32e3ab49bec6e4ebe *R/lle_sound.R
 489838640e44fa6427aa403ecd044864 *R/lle_spiral.R
 1ccf658501756c213078c5c706c159c9 *R/lle_swissrole.R
-0ee2e52eb6a64589711b2d3fd62bd7ce *R/plot_lle.R
+452e688a4441b81ac63ce0cb1c6d1b20 *R/plot_lle.R
 a6a3166ffc4ba1690a9a47b724b4ae6b *data/lle_scurve_data.rda
 aa9f17278a7729258c3fac8ba5877406 *data/lle_wave.rda
 908c0bac013ca52a6652fc4bca125f3d *demo/00Index
@@ -26,7 +26,7 @@ ad279353dfd1bf6ee87d32bd8917589a *man/lle.Rd
 2c801c2c385f850064ee719f23b607a5 *man/lle_rectangular.Rd
 7e8bd5f11cbe2b70167fc30b6d3793d6 *man/lle_scurve.Rd
 a618a01e6f772924e11a03029390a8c6 *man/lle_scurve_data.Rd
-437888933445b55b12878448a4944bf6 *man/lle_sound.Rd
+1f4f77be5f92308179b2b96cd3065073 *man/lle_sound.Rd
 01767800432b0b9d596eca8d81417866 *man/lle_spiral.Rd
 04c18e7075b172153ac9e55421fcd122 *man/lle_swissrole.Rd
 7035b3bff536fb6b0e6fadd1af94ba26 *man/lle_wave.Rd
